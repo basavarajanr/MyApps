@@ -13,6 +13,7 @@
 		110D6999280FFDE7005CA239 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 110D6997280FFDE7005CA239 /* Main.storyboard */; };
 		110D699B280FFDEB005CA239 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 110D699A280FFDEB005CA239 /* Assets.xcassets */; };
 		110D699E280FFDEB005CA239 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 110D699C280FFDEB005CA239 /* LaunchScreen.storyboard */; };
+		11407FC82810077500B79815 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 11407FC72810077500B79815 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		110D699A280FFDEB005CA239 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		110D699D280FFDEB005CA239 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		110D699F280FFDEB005CA239 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11407FC72810077500B79815 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		110D6990280FFDE7005CA239 /* Assignment_1 */ = {
 			isa = PBXGroup;
 			children = (
+				11407FC72810077500B79815 /* README.md */,
 				110D6991280FFDE7005CA239 /* AppDelegate.swift */,
 				110D6993280FFDE7005CA239 /* SceneDelegate.swift */,
 				110D6995280FFDE7005CA239 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			files = (
 				110D699E280FFDEB005CA239 /* LaunchScreen.storyboard in Resources */,
 				110D699B280FFDEB005CA239 /* Assets.xcassets in Resources */,
+				11407FC82810077500B79815 /* README.md in Resources */,
 				110D6999280FFDE7005CA239 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
