@@ -1,0 +1,89 @@
+{
+    "resultItems": [
+        {
+            "storeName": "RelianceMart",
+            "storeImage": "Reliance",
+            "products" : [
+              {
+                 "productName": "RelianceMart_Product1",
+                 "ProductDescription": "Product1 details",
+                 "productPrice": 100
+              },
+              {
+                  "productName": "RelianceMart_Product2",
+                  "ProductDescription": "Product2 details",
+                  "productPrice": 200
+              },
+              {
+                  "productName": "RelianceMart_Product3",
+                  "ProductDescription": "Product3 details",
+                  "productPrice": 300
+              }
+            ]
+        },
+        {
+            "storeName": "BigBazar",
+            "storeImage": "BigBazar",
+            "products" : [
+              {
+                 "productName": "BigBazar_Product1",
+                 "ProductDescription": "Product1 details",
+                 "productPrice": 100
+              },
+              {
+                  "productName": "BigBazar_Product2",
+                  "ProductDescription": "Product2 details",
+                  "productPrice": 200
+              },
+              {
+                  "productName": "BigBazar_Product3",
+                  "ProductDescription": "Product3 details",
+                  "productPrice": 300
+              }
+            ]
+        },
+        {
+            "storeName": "DMart",
+            "storeImage": "DMart",
+            "products" : [
+              {
+                 "productName": "DMart_Product1",
+                 "ProductDescription": "Product1 details",
+                 "productPrice": 100
+              },
+              {
+                  "productName": "DMart_Product2",
+                  "ProductDescription": "Product2 details",
+                  "productPrice": 200
+              },
+              {
+                  "productName": "DMart_Product3",
+                  "ProductDescription": "Product3 details",
+                  "productPrice": 300
+              }
+            ]
+        },
+        {
+            "storeName": "Target",
+            "storeImage": "Target",
+            "products" : [
+              {
+                 "productName": "Target_Product1",
+                 "ProductDescription": "Product1 details",
+                 "productPrice": 100
+              },
+              {
+                  "productName": "Target_Product2",
+                  "ProductDescription": "Product2 details",
+                  "productPrice": 200
+              },
+              {
+                  "productName": "Target_Product3",
+                  "ProductDescription": "Product3 details",
+                  "productPrice": 300
+              }
+            ]
+
+        }
+    ]
+}
