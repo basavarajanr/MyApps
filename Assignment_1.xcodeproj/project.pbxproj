@@ -16,7 +16,6 @@
 		11407FC82810077500B79815 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 11407FC72810077500B79815 /* README.md */; };
 		11407FCB281008EC00B79815 /* Stores_Products.json in Resources */ = {isa = PBXBuildFile; fileRef = 11407FCA281008EC00B79815 /* Stores_Products.json */; };
 		11407FCE281015B000B79815 /* jsonParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11407FCD281015B000B79815 /* jsonParser.swift */; };
-		11FBFEE5281116F700025696 /* iphone_splash.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 11FBFEE4281116F700025696 /* iphone_splash.pdf */; };
 		11FBFEE72811487100025696 /* StoreCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11FBFEE62811487100025696 /* StoreCollectionViewCell.swift */; };
 		11FBFF3D28128FDA00025696 /* ProductScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11FBFF3C28128FDA00025696 /* ProductScreenViewController.swift */; };
 		11FBFF3F28128FEB00025696 /* CartScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11FBFF3E28128FEB00025696 /* CartScreenViewController.swift */; };
@@ -37,7 +36,6 @@
 		11407FC72810077500B79815 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		11407FCA281008EC00B79815 /* Stores_Products.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Stores_Products.json; sourceTree = "<group>"; };
 		11407FCD281015B000B79815 /* jsonParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jsonParser.swift; sourceTree = "<group>"; };
-		11FBFEE4281116F700025696 /* iphone_splash.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = iphone_splash.pdf; path = ../../../splashscreens/iphone_splash.pdf; sourceTree = "<group>"; };
 		11FBFEE62811487100025696 /* StoreCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreCollectionViewCell.swift; sourceTree = "<group>"; };
 		11FBFF3C28128FDA00025696 /* ProductScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductScreenViewController.swift; sourceTree = "<group>"; };
 		11FBFF3E28128FEB00025696 /* CartScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartScreenViewController.swift; sourceTree = "<group>"; };
@@ -94,7 +92,6 @@
 			isa = PBXGroup;
 			children = (
 				11407FCA281008EC00B79815 /* Stores_Products.json */,
-				11FBFEE4281116F700025696 /* iphone_splash.pdf */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -187,7 +184,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11FBFEE5281116F700025696 /* iphone_splash.pdf in Resources */,
 				110D699E280FFDEB005CA239 /* LaunchScreen.storyboard in Resources */,
 				11407FCB281008EC00B79815 /* Stores_Products.json in Resources */,
 				110D699B280FFDEB005CA239 /* Assets.xcassets in Resources */,
